@@ -1,0 +1,7 @@
+{
+  "name": "ionic-printifier-main",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
